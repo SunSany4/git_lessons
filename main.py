@@ -1,6 +1,5 @@
 def my_superfunction():
     print('What an awesome print!')
-    print("YaLyceum!")
 
 
 def main():
@@ -8,6 +7,7 @@ def main():
     print('And I change it every day')
     print('Again')
     print('UFO came and added this line')
+    print("YaLyceum!")
     my_superfunction()
 
 
