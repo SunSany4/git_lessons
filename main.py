@@ -1,6 +1,10 @@
 def my_superfunction():
     print('What an awesome print!')
+
+    print("pull_request")
+
     print('Test')
+
 
 
 def main():
